@@ -1,5 +1,9 @@
 # EspressoMind ☕🧠
 
+
+**EspressoMind** - Because research should be as stimulating as your morning coffee. ☕  
+*"The scholar's AI research companion"*
+
 **AI-Powered Research Assistant with Automated Source Verification**
 
 ![alt text](EspressoMind.png)
@@ -60,16 +64,10 @@ git clone https://github.com/dubeyakshat07/EspressoMind.git
 cd EspressoMind
 
 # Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-
+conda create -n espresso python=3.10
 # Install dependencies
 pip install -r requirements.txt
 
-# Setup environment
-cp .env.example .env
-# Edit .env with your configuration
 ```
 
 ## 💻 Usage
@@ -201,6 +199,4 @@ Project Maintainer - [Akshat Dubey]
 
 ---
 
-**EspressoMind** - Because research should be as stimulating as your morning coffee. ☕  
-*"The scholar's AI research companion"*
 ```
