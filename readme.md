@@ -195,8 +195,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Maintainer - [Akshat Dubey]  
-
----
-
-```
+Project Maintainer - [Akshat Dubey]
