@@ -2,8 +2,7 @@
 
 **AI-Powered Research Assistant with Automated Source Verification**
 
-![EspressoMind Demo](docs/demo.gif)  
-*Real-time research demonstration - replace with actual gif*
+![alt text](EspressoMind.png)
 
 ## ✨ Features
 
